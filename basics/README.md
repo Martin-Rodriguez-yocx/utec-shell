@@ -14,3 +14,4 @@
 11-lists: muestra en formato largo todos los archivos, incluidos los ocultos, del directorio actual, su directorio padre y /boot.
 12-file_type: identifica el tipo del archivo /tmp/iamafile.
 13-symbolic_link: crea el enlace simbólico __ls__ que apunta a /bin/ls.
+14-copy_html: copia al directorio padre los archivos HTML nuevos o más recientes
