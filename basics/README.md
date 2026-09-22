@@ -11,3 +11,4 @@
 8-firstdelete: elimina el archivo betty de /tmp/my_first_directory.
 9-firstdirdeletion: elimina el directorio vacío my_first_directory de /tmp
 10-back: cambia el directorio de trabajo al directorio anterior.
+11-lists: muestra en formato largo todos los archivos, incluidos los ocultos, del directorio actual, su directorio padre y /boot.
