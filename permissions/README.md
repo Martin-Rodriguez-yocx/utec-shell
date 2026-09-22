@@ -10,3 +10,4 @@
 9-John_Doe: establece los permisos rwx para el propietario, r-x para el grupo y -wx para otros usuarios en hello.
 10-mirror_permissions: establece en hello los mismos permisos que tenga el archivo olleh.
 11-directories_permissions: agrega permiso de ejecución a los subdirectorios para todos los usuarios sin modificar los archivos regulares.
+12-directory_permissions: crea el directorio my_dir con permisos 751.
